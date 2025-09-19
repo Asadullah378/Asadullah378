@@ -3,7 +3,7 @@
 </h1>
 
 
-Generative AI | LLMS | ML/DL | Web Dev 
+Software Dev |Generative AI | LLMS | ML/DL | Web Dev 
 ------------------------------------
 
 
